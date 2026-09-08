@@ -1,0 +1,187 @@
+﻿Type,SKU,Name,Published,Is featured?,Visibility in catalog,Short description,Description,Tax status,In stock?,Regular price,Categories,Tags,Parent,Position,Attribute 1 name,Attribute 1 value(s),Attribute 1 visible,Attribute 1 global,Meta: momizza_display_price,Meta: momizza_source_section
+variable,MOM-PIZZA-CLASSI-DOUBLE-CHEESE-MARGHERITA,Double Cheese Margherita,1,0,visible,Only cheese pizza,Only cheese pizza,taxable,1,,Pizza Classic Range,Momizza menu,,1,Option,"Regular, Medium, Large",1,0,,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-DOUBLE-CHEESE-MARGHERITA-REGULAR,Double Cheese Margherita - Regular,1,0,visible,,,taxable,1,189,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-DOUBLE-CHEESE-MARGHERITA,1,Option,Regular,1,0,₹189,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-DOUBLE-CHEESE-MARGHERITA-MEDIUM,Double Cheese Margherita - Medium,1,0,visible,,,taxable,1,319,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-DOUBLE-CHEESE-MARGHERITA,2,Option,Medium,1,0,₹319,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-DOUBLE-CHEESE-MARGHERITA-LARGE,Double Cheese Margherita - Large,1,0,visible,,,taxable,1,449,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-DOUBLE-CHEESE-MARGHERITA,3,Option,Large,1,0,₹449,Pizza Classic Range
+variable,MOM-PIZZA-CLASSI-FARM-FRESH-CHOICE,Farm Fresh Choice,1,0,visible,"Onion, capsicum, tomato, mushroom","Onion, capsicum, tomato, mushroom",taxable,1,,Pizza Classic Range,Momizza menu,,2,Option,"Regular, Medium, Large",1,0,,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-FARM-FRESH-CHOICE-REGULAR,Farm Fresh Choice - Regular,1,0,visible,,,taxable,1,189,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-FARM-FRESH-CHOICE,1,Option,Regular,1,0,₹189,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-FARM-FRESH-CHOICE-MEDIUM,Farm Fresh Choice - Medium,1,0,visible,,,taxable,1,319,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-FARM-FRESH-CHOICE,2,Option,Medium,1,0,₹319,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-FARM-FRESH-CHOICE-LARGE,Farm Fresh Choice - Large,1,0,visible,,,taxable,1,449,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-FARM-FRESH-CHOICE,3,Option,Large,1,0,₹449,Pizza Classic Range
+variable,MOM-PIZZA-CLASSI-SPICY-DELIGHT,Spicy Delight,1,0,visible,"Capsicum, jalapeno, mushroom","Capsicum, jalapeno, mushroom",taxable,1,,Pizza Classic Range,Momizza menu,,3,Option,"Regular, Medium, Large",1,0,,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-SPICY-DELIGHT-REGULAR,Spicy Delight - Regular,1,0,visible,,,taxable,1,189,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-SPICY-DELIGHT,1,Option,Regular,1,0,₹189,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-SPICY-DELIGHT-MEDIUM,Spicy Delight - Medium,1,0,visible,,,taxable,1,319,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-SPICY-DELIGHT,2,Option,Medium,1,0,₹319,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-SPICY-DELIGHT-LARGE,Spicy Delight - Large,1,0,visible,,,taxable,1,449,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-SPICY-DELIGHT,3,Option,Large,1,0,₹449,Pizza Classic Range
+variable,MOM-PIZZA-CLASSI-PANEER-MAKHANI,Paneer Makhani,1,0,visible,"Paneer, capsicum, makhani sauce","Paneer, capsicum, makhani sauce",taxable,1,,Pizza Classic Range,Momizza menu,,4,Option,"Regular, Medium, Large",1,0,,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-PANEER-MAKHANI-REGULAR,Paneer Makhani - Regular,1,0,visible,,,taxable,1,189,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-PANEER-MAKHANI,1,Option,Regular,1,0,₹189,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-PANEER-MAKHANI-MEDIUM,Paneer Makhani - Medium,1,0,visible,,,taxable,1,319,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-PANEER-MAKHANI,2,Option,Medium,1,0,₹319,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-PANEER-MAKHANI-LARGE,Paneer Makhani - Large,1,0,visible,,,taxable,1,449,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-PANEER-MAKHANI,3,Option,Large,1,0,₹449,Pizza Classic Range
+variable,MOM-PIZZA-CLASSI-ACHARI-DO-PAYAZA,Achari Do Payaza,1,0,visible,"Onion, jalapeno, red paprika","Onion, jalapeno, red paprika",taxable,1,,Pizza Classic Range,Momizza menu,,5,Option,"Regular, Medium, Large",1,0,,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-ACHARI-DO-PAYAZA-REGULAR,Achari Do Payaza - Regular,1,0,visible,,,taxable,1,189,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-ACHARI-DO-PAYAZA,1,Option,Regular,1,0,₹189,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-ACHARI-DO-PAYAZA-MEDIUM,Achari Do Payaza - Medium,1,0,visible,,,taxable,1,319,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-ACHARI-DO-PAYAZA,2,Option,Medium,1,0,₹319,Pizza Classic Range
+variation,MOM-PIZZA-CLASSI-ACHARI-DO-PAYAZA-LARGE,Achari Do Payaza - Large,1,0,visible,,,taxable,1,449,Pizza Classic Range,Momizza menu,MOM-PIZZA-CLASSI-ACHARI-DO-PAYAZA,3,Option,Large,1,0,₹449,Pizza Classic Range
+variable,MOM-PIZZA-SIGNAT-PANEER-SPECIAL,Paneer Special,1,0,visible,"Paneer, capsicum, red paprika","Paneer, capsicum, red paprika",taxable,1,,Pizza Signature Range,Momizza menu,,6,Option,"Regular, Medium, Large",1,0,,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-PANEER-SPECIAL-REGULAR,Paneer Special - Regular,1,0,visible,,,taxable,1,239,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-PANEER-SPECIAL,1,Option,Regular,1,0,₹239,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-PANEER-SPECIAL-MEDIUM,Paneer Special - Medium,1,0,visible,,,taxable,1,399,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-PANEER-SPECIAL,2,Option,Medium,1,0,₹399,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-PANEER-SPECIAL-LARGE,Paneer Special - Large,1,0,visible,,,taxable,1,519,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-PANEER-SPECIAL,3,Option,Large,1,0,₹519,Pizza Signature Range
+variable,MOM-PIZZA-SIGNAT-PANEER-TADKA,Paneer Tadka,1,0,visible,"Paneer, capsicum, jalapeno","Paneer, capsicum, jalapeno",taxable,1,,Pizza Signature Range,Momizza menu,,7,Option,"Regular, Medium, Large",1,0,,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-PANEER-TADKA-REGULAR,Paneer Tadka - Regular,1,0,visible,,,taxable,1,239,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-PANEER-TADKA,1,Option,Regular,1,0,₹239,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-PANEER-TADKA-MEDIUM,Paneer Tadka - Medium,1,0,visible,,,taxable,1,399,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-PANEER-TADKA,2,Option,Medium,1,0,₹399,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-PANEER-TADKA-LARGE,Paneer Tadka - Large,1,0,visible,,,taxable,1,519,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-PANEER-TADKA,3,Option,Large,1,0,₹519,Pizza Signature Range
+variable,MOM-PIZZA-SIGNAT-DELUXE-VEGGIE,Deluxe Veggie,1,0,visible,"Onion, capsicum, corn, mushroom, paneer","Onion, capsicum, corn, mushroom, paneer",taxable,1,,Pizza Signature Range,Momizza menu,,8,Option,"Regular, Medium, Large",1,0,,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-DELUXE-VEGGIE-REGULAR,Deluxe Veggie - Regular,1,0,visible,,,taxable,1,239,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-DELUXE-VEGGIE,1,Option,Regular,1,0,₹239,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-DELUXE-VEGGIE-MEDIUM,Deluxe Veggie - Medium,1,0,visible,,,taxable,1,399,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-DELUXE-VEGGIE,2,Option,Medium,1,0,₹399,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-DELUXE-VEGGIE-LARGE,Deluxe Veggie - Large,1,0,visible,,,taxable,1,519,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-DELUXE-VEGGIE,3,Option,Large,1,0,₹519,Pizza Signature Range
+variable,MOM-PIZZA-SIGNAT-BLACK-WHITE,Black & White,1,0,visible,"Capsicum, corn, onion, paneer, black olive","Capsicum, corn, onion, paneer, black olive",taxable,1,,Pizza Signature Range,Momizza menu,,9,Option,"Regular, Medium, Large",1,0,,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-BLACK-WHITE-REGULAR,Black & White - Regular,1,0,visible,,,taxable,1,239,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-BLACK-WHITE,1,Option,Regular,1,0,₹239,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-BLACK-WHITE-MEDIUM,Black & White - Medium,1,0,visible,,,taxable,1,399,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-BLACK-WHITE,2,Option,Medium,1,0,₹399,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-BLACK-WHITE-LARGE,Black & White - Large,1,0,visible,,,taxable,1,519,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-BLACK-WHITE,3,Option,Large,1,0,₹519,Pizza Signature Range
+variable,MOM-PIZZA-SIGNAT-TANDOORI-PIZZA,Tandoori Pizza,1,0,visible,"Onion, capsicum, jalapeno, tandoori sauce","Onion, capsicum, jalapeno, tandoori sauce",taxable,1,,Pizza Signature Range,Momizza menu,,10,Option,"Regular, Medium, Large",1,0,,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-TANDOORI-PIZZA-REGULAR,Tandoori Pizza - Regular,1,0,visible,,,taxable,1,239,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-TANDOORI-PIZZA,1,Option,Regular,1,0,₹239,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-TANDOORI-PIZZA-MEDIUM,Tandoori Pizza - Medium,1,0,visible,,,taxable,1,399,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-TANDOORI-PIZZA,2,Option,Medium,1,0,₹399,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-TANDOORI-PIZZA-LARGE,Tandoori Pizza - Large,1,0,visible,,,taxable,1,519,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-TANDOORI-PIZZA,3,Option,Large,1,0,₹519,Pizza Signature Range
+variable,MOM-PIZZA-SIGNAT-GREEN-MEXICAN,Green Mexican,1,0,visible,"Jalapeno, onion, capsicum & tomato sprinkled with Mexican","Jalapeno, onion, capsicum & tomato sprinkled with Mexican",taxable,1,,Pizza Signature Range,Momizza menu,,11,Option,"Regular, Medium, Large",1,0,,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-GREEN-MEXICAN-REGULAR,Green Mexican - Regular,1,0,visible,,,taxable,1,239,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-GREEN-MEXICAN,1,Option,Regular,1,0,₹239,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-GREEN-MEXICAN-MEDIUM,Green Mexican - Medium,1,0,visible,,,taxable,1,399,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-GREEN-MEXICAN,2,Option,Medium,1,0,₹399,Pizza Signature Range
+variation,MOM-PIZZA-SIGNAT-GREEN-MEXICAN-LARGE,Green Mexican - Large,1,0,visible,,,taxable,1,519,Pizza Signature Range,Momizza menu,MOM-PIZZA-SIGNAT-GREEN-MEXICAN,3,Option,Large,1,0,₹519,Pizza Signature Range
+variable,MOM-PIZZA-SUPREM-KADAI-PANEER,Kadai Paneer,1,0,visible,"Paneer, onion, capsicum, tomato, mushroom & extra cheese","Paneer, onion, capsicum, tomato, mushroom & extra cheese",taxable,1,,Pizza Supreme Range,Momizza menu,,12,Option,"Regular, Medium, Large",1,0,,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-KADAI-PANEER-REGULAR,Kadai Paneer - Regular,1,0,visible,,,taxable,1,279,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-KADAI-PANEER,1,Option,Regular,1,0,₹279,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-KADAI-PANEER-MEDIUM,Kadai Paneer - Medium,1,0,visible,,,taxable,1,499,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-KADAI-PANEER,2,Option,Medium,1,0,₹499,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-KADAI-PANEER-LARGE,Kadai Paneer - Large,1,0,visible,,,taxable,1,619,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-KADAI-PANEER,3,Option,Large,1,0,₹619,Pizza Supreme Range
+variable,MOM-PIZZA-SUPREM-MIX-VEGGIES,Mix Veggies,1,0,visible,"Tomato, capsicum, corn, onion, mushroom, black olives & extra cheese","Tomato, capsicum, corn, onion, mushroom, black olives & extra cheese",taxable,1,,Pizza Supreme Range,Momizza menu,,13,Option,"Regular, Medium, Large",1,0,,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-MIX-VEGGIES-REGULAR,Mix Veggies - Regular,1,0,visible,,,taxable,1,279,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-MIX-VEGGIES,1,Option,Regular,1,0,₹279,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-MIX-VEGGIES-MEDIUM,Mix Veggies - Medium,1,0,visible,,,taxable,1,499,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-MIX-VEGGIES,2,Option,Medium,1,0,₹499,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-MIX-VEGGIES-LARGE,Mix Veggies - Large,1,0,visible,,,taxable,1,619,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-MIX-VEGGIES,3,Option,Large,1,0,₹619,Pizza Supreme Range
+variable,MOM-PIZZA-SUPREM-VEGGIE-DESIRE,Veggie Desire,1,0,visible,"Capsicum, corn, mushroom, paneer, black olives, jalapeno, red paprika & extra cheese","Capsicum, corn, mushroom, paneer, black olives, jalapeno, red paprika & extra cheese",taxable,1,,Pizza Supreme Range,Momizza menu,,14,Option,"Regular, Medium, Large",1,0,,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-VEGGIE-DESIRE-REGULAR,Veggie Desire - Regular,1,0,visible,,,taxable,1,279,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-VEGGIE-DESIRE,1,Option,Regular,1,0,₹279,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-VEGGIE-DESIRE-MEDIUM,Veggie Desire - Medium,1,0,visible,,,taxable,1,499,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-VEGGIE-DESIRE,2,Option,Medium,1,0,₹499,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-VEGGIE-DESIRE-LARGE,Veggie Desire - Large,1,0,visible,,,taxable,1,619,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-VEGGIE-DESIRE,3,Option,Large,1,0,₹619,Pizza Supreme Range
+variable,MOM-PIZZA-SUPREM-SPICY-VEG-HEAVEN,Spicy Veg Heaven,1,0,visible,"Mushroom, capsicum, onion, jalapeno, red paprika, corn, paneer & extra cheese","Mushroom, capsicum, onion, jalapeno, red paprika, corn, paneer & extra cheese",taxable,1,,Pizza Supreme Range,Momizza menu,,15,Option,"Regular, Medium, Large",1,0,,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-SPICY-VEG-HEAVEN-REGULAR,Spicy Veg Heaven - Regular,1,0,visible,,,taxable,1,279,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-SPICY-VEG-HEAVEN,1,Option,Regular,1,0,₹279,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-SPICY-VEG-HEAVEN-MEDIUM,Spicy Veg Heaven - Medium,1,0,visible,,,taxable,1,499,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-SPICY-VEG-HEAVEN,2,Option,Medium,1,0,₹499,Pizza Supreme Range
+variation,MOM-PIZZA-SUPREM-SPICY-VEG-HEAVEN-LARGE,Spicy Veg Heaven - Large,1,0,visible,,,taxable,1,619,Pizza Supreme Range,Momizza menu,MOM-PIZZA-SUPREM-SPICY-VEG-HEAVEN,3,Option,Large,1,0,₹619,Pizza Supreme Range
+variable,MOM-MAKE-YOUR-OW-MAKE-YOUR-OWN-PIZZA,Make Your Own Pizza,1,0,visible,Choose your size and build it your way.,Choose your size and build it your way.,taxable,1,,Make Your Own Pizza,Momizza menu,,16,Option,"Regular, Medium, Large",1,0,,Make Your Own Pizza
+variation,MOM-MAKE-YOUR-OW-MAKE-YOUR-OWN-PIZZA-REGULAR,Make Your Own Pizza - Regular,1,0,visible,,,taxable,1,149,Make Your Own Pizza,Momizza menu,MOM-MAKE-YOUR-OW-MAKE-YOUR-OWN-PIZZA,1,Option,Regular,1,0,₹149,Make Your Own Pizza
+variation,MOM-MAKE-YOUR-OW-MAKE-YOUR-OWN-PIZZA-MEDIUM,Make Your Own Pizza - Medium,1,0,visible,,,taxable,1,259,Make Your Own Pizza,Momizza menu,MOM-MAKE-YOUR-OW-MAKE-YOUR-OWN-PIZZA,2,Option,Medium,1,0,₹259,Make Your Own Pizza
+variation,MOM-MAKE-YOUR-OW-MAKE-YOUR-OWN-PIZZA-LARGE,Make Your Own Pizza - Large,1,0,visible,,,taxable,1,399,Make Your Own Pizza,Momizza menu,MOM-MAKE-YOUR-OW-MAKE-YOUR-OWN-PIZZA,3,Option,Large,1,0,₹399,Make Your Own Pizza
+variable,MOM-BURGERS-ALOO-TIKKI-BURGER,Aloo Tikki Burger,1,0,visible,,,taxable,1,,Burgers,Momizza menu,,17,Option,"Burger Only, Combo",1,0,,Burgers
+variation,MOM-BURGERS-ALOO-TIKKI-BURGER-BURGER-ONLY,Aloo Tikki Burger - Burger Only,1,0,visible,,,taxable,1,39,Burgers,Momizza menu,MOM-BURGERS-ALOO-TIKKI-BURGER,1,Option,Burger Only,1,0,₹39,Burgers
+variation,MOM-BURGERS-ALOO-TIKKI-BURGER-COMBO,Aloo Tikki Burger - Combo,1,0,visible,,,taxable,1,129,Burgers,Momizza menu,MOM-BURGERS-ALOO-TIKKI-BURGER,2,Option,Combo,1,0,₹129,Burgers
+variable,MOM-BURGERS-VEGI-BURGER,Vegi Burger,1,0,visible,,,taxable,1,,Burgers,Momizza menu,,18,Option,"Burger Only, Combo",1,0,,Burgers
+variation,MOM-BURGERS-VEGI-BURGER-BURGER-ONLY,Vegi Burger - Burger Only,1,0,visible,,,taxable,1,59,Burgers,Momizza menu,MOM-BURGERS-VEGI-BURGER,1,Option,Burger Only,1,0,₹59,Burgers
+variation,MOM-BURGERS-VEGI-BURGER-COMBO,Vegi Burger - Combo,1,0,visible,,,taxable,1,139,Burgers,Momizza menu,MOM-BURGERS-VEGI-BURGER,2,Option,Combo,1,0,₹139,Burgers
+variable,MOM-BURGERS-CHEESY-BURGER,Cheesy Burger,1,0,visible,,,taxable,1,,Burgers,Momizza menu,,19,Option,"Burger Only, Combo",1,0,,Burgers
+variation,MOM-BURGERS-CHEESY-BURGER-BURGER-ONLY,Cheesy Burger - Burger Only,1,0,visible,,,taxable,1,79,Burgers,Momizza menu,MOM-BURGERS-CHEESY-BURGER,1,Option,Burger Only,1,0,₹79,Burgers
+variation,MOM-BURGERS-CHEESY-BURGER-COMBO,Cheesy Burger - Combo,1,0,visible,,,taxable,1,169,Burgers,Momizza menu,MOM-BURGERS-CHEESY-BURGER,2,Option,Combo,1,0,₹169,Burgers
+variable,MOM-BURGERS-TANDOORI-BURGER,Tandoori Burger,1,0,visible,,,taxable,1,,Burgers,Momizza menu,,20,Option,"Burger Only, Combo",1,0,,Burgers
+variation,MOM-BURGERS-TANDOORI-BURGER-BURGER-ONLY,Tandoori Burger - Burger Only,1,0,visible,,,taxable,1,79,Burgers,Momizza menu,MOM-BURGERS-TANDOORI-BURGER,1,Option,Burger Only,1,0,₹79,Burgers
+variation,MOM-BURGERS-TANDOORI-BURGER-COMBO,Tandoori Burger - Combo,1,0,visible,,,taxable,1,169,Burgers,Momizza menu,MOM-BURGERS-TANDOORI-BURGER,2,Option,Combo,1,0,₹169,Burgers
+variable,MOM-BURGERS-PANEER-E-ZAIKA,Paneer-E-Zaika,1,0,visible,,,taxable,1,,Burgers,Momizza menu,,21,Option,"Burger Only, Combo",1,0,,Burgers
+variation,MOM-BURGERS-PANEER-E-ZAIKA-BURGER-ONLY,Paneer-E-Zaika - Burger Only,1,0,visible,,,taxable,1,129,Burgers,Momizza menu,MOM-BURGERS-PANEER-E-ZAIKA,1,Option,Burger Only,1,0,₹129,Burgers
+variation,MOM-BURGERS-PANEER-E-ZAIKA-COMBO,Paneer-E-Zaika - Combo,1,0,visible,,,taxable,1,219,Burgers,Momizza menu,MOM-BURGERS-PANEER-E-ZAIKA,2,Option,Combo,1,0,₹219,Burgers
+variable,MOM-BURGERS-MOMIZZA-SPECIAL-BURGER,Momizza Special Burger,1,0,visible,,,taxable,1,,Burgers,Momizza menu,,22,Option,"Burger Only, Combo",1,0,,Burgers
+variation,MOM-BURGERS-MOMIZZA-SPECIAL-BURGER-BURGER-ONLY,Momizza Special Burger - Burger Only,1,0,visible,,,taxable,1,149,Burgers,Momizza menu,MOM-BURGERS-MOMIZZA-SPECIAL-BURGER,1,Option,Burger Only,1,0,₹149,Burgers
+variation,MOM-BURGERS-MOMIZZA-SPECIAL-BURGER-COMBO,Momizza Special Burger - Combo,1,0,visible,,,taxable,1,239,Burgers,Momizza menu,MOM-BURGERS-MOMIZZA-SPECIAL-BURGER,2,Option,Combo,1,0,₹239,Burgers
+variable,MOM-SANDWICHES-GRILLED-SANDWICH,Grilled Sandwich,1,0,visible,,,taxable,1,,Sandwiches,Momizza menu,,23,Option,"Sandwich Only, Combo",1,0,,Sandwiches
+variation,MOM-SANDWICHES-GRILLED-SANDWICH-SANDWICH-ONLY,Grilled Sandwich - Sandwich Only,1,0,visible,,,taxable,1,89,Sandwiches,Momizza menu,MOM-SANDWICHES-GRILLED-SANDWICH,1,Option,Sandwich Only,1,0,₹89,Sandwiches
+variation,MOM-SANDWICHES-GRILLED-SANDWICH-COMBO,Grilled Sandwich - Combo,1,0,visible,,,taxable,1,169,Sandwiches,Momizza menu,MOM-SANDWICHES-GRILLED-SANDWICH,2,Option,Combo,1,0,₹169,Sandwiches
+variable,MOM-SANDWICHES-CHEESY-GRILLED-SANDWICH,Cheesy Grilled Sandwich,1,0,visible,,,taxable,1,,Sandwiches,Momizza menu,,24,Option,"Sandwich Only, Combo",1,0,,Sandwiches
+variation,MOM-SANDWICHES-CHEESY-GRILLED-SANDWICH-SANDWICH-ONLY,Cheesy Grilled Sandwich - Sandwich Only,1,0,visible,,,taxable,1,109,Sandwiches,Momizza menu,MOM-SANDWICHES-CHEESY-GRILLED-SANDWICH,1,Option,Sandwich Only,1,0,₹109,Sandwiches
+variation,MOM-SANDWICHES-CHEESY-GRILLED-SANDWICH-COMBO,Cheesy Grilled Sandwich - Combo,1,0,visible,,,taxable,1,199,Sandwiches,Momizza menu,MOM-SANDWICHES-CHEESY-GRILLED-SANDWICH,2,Option,Combo,1,0,₹199,Sandwiches
+variable,MOM-SANDWICHES-PANEER-CORN-SANDWICH,Paneer & Corn Sandwich,1,0,visible,,,taxable,1,,Sandwiches,Momizza menu,,25,Option,"Sandwich Only, Combo",1,0,,Sandwiches
+variation,MOM-SANDWICHES-PANEER-CORN-SANDWICH-SANDWICH-ONLY,Paneer & Corn Sandwich - Sandwich Only,1,0,visible,,,taxable,1,109,Sandwiches,Momizza menu,MOM-SANDWICHES-PANEER-CORN-SANDWICH,1,Option,Sandwich Only,1,0,₹109,Sandwiches
+variation,MOM-SANDWICHES-PANEER-CORN-SANDWICH-COMBO,Paneer & Corn Sandwich - Combo,1,0,visible,,,taxable,1,199,Sandwiches,Momizza menu,MOM-SANDWICHES-PANEER-CORN-SANDWICH,2,Option,Combo,1,0,₹199,Sandwiches
+variable,MOM-SANDWICHES-SPECIAL-SANDWICH,Special Sandwich,1,0,visible,,,taxable,1,,Sandwiches,Momizza menu,,26,Option,"Sandwich Only, Combo",1,0,,Sandwiches
+variation,MOM-SANDWICHES-SPECIAL-SANDWICH-SANDWICH-ONLY,Special Sandwich - Sandwich Only,1,0,visible,,,taxable,1,129,Sandwiches,Momizza menu,MOM-SANDWICHES-SPECIAL-SANDWICH,1,Option,Sandwich Only,1,0,₹129,Sandwiches
+variation,MOM-SANDWICHES-SPECIAL-SANDWICH-COMBO,Special Sandwich - Combo,1,0,visible,,,taxable,1,219,Sandwiches,Momizza menu,MOM-SANDWICHES-SPECIAL-SANDWICH,2,Option,Combo,1,0,₹219,Sandwiches
+variable,MOM-FRIES-FRENCH-FRIES,French Fries,1,0,visible,,,taxable,1,,Fries,Momizza menu,,27,Option,"Small, Large",1,0,,Fries
+variation,MOM-FRIES-FRENCH-FRIES-SMALL,French Fries - Small,1,0,visible,,,taxable,1,69,Fries,Momizza menu,MOM-FRIES-FRENCH-FRIES,1,Option,Small,1,0,₹69,Fries
+variation,MOM-FRIES-FRENCH-FRIES-LARGE,French Fries - Large,1,0,visible,,,taxable,1,129,Fries,Momizza menu,MOM-FRIES-FRENCH-FRIES,2,Option,Large,1,0,₹129,Fries
+variable,MOM-FRIES-MASALA-FRIES,Masala Fries,1,0,visible,,,taxable,1,,Fries,Momizza menu,,28,Option,"Small, Large",1,0,,Fries
+variation,MOM-FRIES-MASALA-FRIES-SMALL,Masala Fries - Small,1,0,visible,,,taxable,1,89,Fries,Momizza menu,MOM-FRIES-MASALA-FRIES,1,Option,Small,1,0,₹89,Fries
+variation,MOM-FRIES-MASALA-FRIES-LARGE,Masala Fries - Large,1,0,visible,,,taxable,1,149,Fries,Momizza menu,MOM-FRIES-MASALA-FRIES,2,Option,Large,1,0,₹149,Fries
+variable,MOM-FRIES-SPICY-PERI-PERI-FRIES,Spicy Peri Peri Fries,1,0,visible,,,taxable,1,,Fries,Momizza menu,,29,Option,"Small, Large",1,0,,Fries
+variation,MOM-FRIES-SPICY-PERI-PERI-FRIES-SMALL,Spicy Peri Peri Fries - Small,1,0,visible,,,taxable,1,99,Fries,Momizza menu,MOM-FRIES-SPICY-PERI-PERI-FRIES,1,Option,Small,1,0,₹99,Fries
+variation,MOM-FRIES-SPICY-PERI-PERI-FRIES-LARGE,Spicy Peri Peri Fries - Large,1,0,visible,,,taxable,1,159,Fries,Momizza menu,MOM-FRIES-SPICY-PERI-PERI-FRIES,2,Option,Large,1,0,₹159,Fries
+variable,MOM-FRIES-CHEESY-SAUCY-FRIES,Cheesy Saucy Fries,1,0,visible,,,taxable,1,,Fries,Momizza menu,,30,Option,"Small, Large",1,0,,Fries
+variation,MOM-FRIES-CHEESY-SAUCY-FRIES-SMALL,Cheesy Saucy Fries - Small,1,0,visible,,,taxable,1,109,Fries,Momizza menu,MOM-FRIES-CHEESY-SAUCY-FRIES,1,Option,Small,1,0,₹109,Fries
+variation,MOM-FRIES-CHEESY-SAUCY-FRIES-LARGE,Cheesy Saucy Fries - Large,1,0,visible,,,taxable,1,169,Fries,Momizza menu,MOM-FRIES-CHEESY-SAUCY-FRIES,2,Option,Large,1,0,₹169,Fries
+simple,MOM-FRIES-MASALA-VEGGI-CRISPORS,Masala Veggi Crispors,1,0,visible,,,taxable,1,109,Fries,Momizza menu,,31,,,,,,Fries
+simple,MOM-BAKED-PASTAS-RED-SAUCE-PASTA,Red Sauce Pasta,1,0,visible,,,taxable,1,109,Baked Pastas,Momizza menu,,32,,,,,,Baked Pastas
+simple,MOM-BAKED-PASTAS-WHITE-SAUCE-PASTA,White Sauce Pasta,1,0,visible,,,taxable,1,109,Baked Pastas,Momizza menu,,33,,,,,,Baked Pastas
+simple,MOM-BAKED-PASTAS-TANDOORI-PASTA,Tandoori Pasta,1,0,visible,,,taxable,1,119,Baked Pastas,Momizza menu,,34,,,,,,Baked Pastas
+simple,MOM-BAKED-PASTAS-MAKHANI-PASTA,Makhani Pasta,1,0,visible,,,taxable,1,119,Baked Pastas,Momizza menu,,35,,,,,,Baked Pastas
+simple,MOM-BAKED-PASTAS-MOMIZZA-S-SPECIAL-PASTA,Momizza's Special Pasta,1,0,visible,,,taxable,1,129,Baked Pastas,Momizza menu,,36,,,,,,Baked Pastas
+simple,MOM-SUBS-SIDES-CHEESY-ZINGY-PARCEL,Cheesy Zingy Parcel,1,0,visible,,,taxable,1,49,Subs & Sides,Momizza menu,,37,,,,,,Subs & Sides
+simple,MOM-SUBS-SIDES-PANEER-PARCEL,Paneer Parcel,1,0,visible,,,taxable,1,59,Subs & Sides,Momizza menu,,38,,,,,,Subs & Sides
+simple,MOM-SUBS-SIDES-VEGGIES-FINGERS-6-PC,Veggies Fingers (6 Pc),1,0,visible,,,taxable,1,89,Subs & Sides,Momizza menu,,39,,,,,,Subs & Sides
+simple,MOM-SUBS-SIDES-MASALA-AMERICAN-CORN,Masala American Corn,1,0,visible,,,taxable,1,89,Subs & Sides,Momizza menu,,40,,,,,,Subs & Sides
+simple,MOM-SUBS-SIDES-MIX-SALAD,Mix Salad,1,0,visible,,,taxable,1,119,Subs & Sides,Momizza menu,,41,,,,,,Subs & Sides
+simple,MOM-SUBS-SIDES-CALZONE,Calzone,1,0,visible,,,taxable,1,119,Subs & Sides,Momizza menu,,42,,,,,,Subs & Sides
+simple,MOM-SUBS-SIDES-TACO,Taco,1,0,visible,,,taxable,1,119,Subs & Sides,Momizza menu,,43,,,,,,Subs & Sides
+simple,MOM-SHAKES-DRINK-HOT-COFFEE,Hot Coffee,1,0,visible,,,taxable,1,69,Shakes & Drinks,Momizza menu,,44,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-VANILLA-SHAKE,Vanilla Shake,1,0,visible,,,taxable,1,89,Shakes & Drinks,Momizza menu,,45,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-COLD-COFFEE,Cold Coffee,1,0,visible,,,taxable,1,89,Shakes & Drinks,Momizza menu,,46,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-MANGO-SHAKE,Mango Shake,1,0,visible,,,taxable,1,99,Shakes & Drinks,Momizza menu,,47,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-STRAWBERRY-SHAKE,Strawberry Shake,1,0,visible,,,taxable,1,99,Shakes & Drinks,Momizza menu,,48,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-CHOCOLATE-SHAKE,Chocolate Shake,1,0,visible,,,taxable,1,99,Shakes & Drinks,Momizza menu,,49,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-OREO-SHAKE,Oreo Shake,1,0,visible,,,taxable,1,109,Shakes & Drinks,Momizza menu,,50,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-BUTTER-SCOTCH-SHAKE,Butter Scotch Shake,1,0,visible,,,taxable,1,109,Shakes & Drinks,Momizza menu,,51,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-SPECIAL-SHAKE,Special Shake,1,0,visible,,,taxable,1,119,Shakes & Drinks,Momizza menu,,52,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-COKE-GLASS,Coke Glass,1,0,visible,,,taxable,1,30,Shakes & Drinks,Momizza menu,,53,,,,,,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-COKE-PEPSI,Coke / Pepsi,1,0,visible,,,taxable,1,,Shakes & Drinks,Momizza menu,,54,,,,,MRP,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-FRUIT-DRINKS,Fruit Drinks,1,0,visible,,,taxable,1,,Shakes & Drinks,Momizza menu,,55,,,,,MRP,Shakes & Drinks
+simple,MOM-SHAKES-DRINK-MINERAL-WATER,Mineral Water,1,0,visible,,,taxable,1,,Shakes & Drinks,Momizza menu,,56,,,,,MRP,Shakes & Drinks
+simple,MOM-MOJITOS-MINT-MOJITO,Mint Mojito,1,0,visible,,,taxable,1,99,Mojitos,Momizza menu,,57,,,,,,Mojitos
+simple,MOM-MOJITOS-GREEN-APPLE-MOJITO,Green Apple Mojito,1,0,visible,,,taxable,1,99,Mojitos,Momizza menu,,58,,,,,,Mojitos
+simple,MOM-MOJITOS-STRAWBERRY-MOJITO,Strawberry Mojito,1,0,visible,,,taxable,1,99,Mojitos,Momizza menu,,59,,,,,,Mojitos
+simple,MOM-MOJITOS-MANGO-MOJITO,Mango Mojito,1,0,visible,,,taxable,1,109,Mojitos,Momizza menu,,60,,,,,,Mojitos
+simple,MOM-MOJITOS-MASALA-MANGO-MOJITO,Masala Mango Mojito,1,0,visible,,,taxable,1,109,Mojitos,Momizza menu,,61,,,,,,Mojitos
+simple,MOM-MOJITOS-BLUE-CURACAO-MOJITO,Blue Curacao Mojito,1,0,visible,,,taxable,1,109,Mojitos,Momizza menu,,62,,,,,,Mojitos
+simple,MOM-BREAD-DIPS-GARLIC-BREAD-TWISTED,Garlic Bread (Twisted),1,0,visible,,,taxable,1,89,Bread & Dips,Momizza menu,,63,,,,,,Bread & Dips
+simple,MOM-BREAD-DIPS-STUFF-GARLIC-BREAD,Stuff Garlic Bread,1,0,visible,,,taxable,1,129,Bread & Dips,Momizza menu,,64,,,,,,Bread & Dips
+simple,MOM-BREAD-DIPS-PANEER-STUFF-GARLIC-BREA,Paneer Stuff Garlic Bread,1,0,visible,,,taxable,1,139,Bread & Dips,Momizza menu,,65,,,,,,Bread & Dips
+simple,MOM-BREAD-DIPS-CHEESY-DIP,Cheesy Dip,1,0,visible,,,taxable,1,25,Bread & Dips,Momizza menu,,66,,,,,,Bread & Dips
+simple,MOM-BREAD-DIPS-SPICY-DIP,Spicy Dip,1,0,visible,,,taxable,1,25,Bread & Dips,Momizza menu,,67,,,,,,Bread & Dips
+simple,MOM-BREAD-DIPS-CHILLY-DIP,Chilly Dip,1,0,visible,,,taxable,1,25,Bread & Dips,Momizza menu,,68,,,,,,Bread & Dips
+simple,MOM-WRAPS-ITALIAN-WRAP,Italian Wrap,1,0,visible,,,taxable,1,99,Wraps,Momizza menu,,69,,,,,,Wraps
+simple,MOM-WRAPS-CHEESY-WRAP,Cheesy Wrap,1,0,visible,,,taxable,1,109,Wraps,Momizza menu,,70,,,,,,Wraps
+simple,MOM-WRAPS-SPICY-PANEER-WRAP,Spicy Paneer Wrap,1,0,visible,,,taxable,1,119,Wraps,Momizza menu,,71,,,,,,Wraps
+simple,MOM-WRAPS-MAKHANI-PANEER-WRAP,Makhani Paneer Wrap,1,0,visible,,,taxable,1,119,Wraps,Momizza menu,,72,,,,,,Wraps
+simple,MOM-DESSERTS-VANILLA-ICE-CREAM,Vanilla Ice Cream,1,0,visible,,,taxable,1,49,Desserts,Momizza menu,,73,,,,,,Desserts
+simple,MOM-DESSERTS-CHOCOLATE-ICE-CREAM,Chocolate Ice Cream,1,0,visible,,,taxable,1,59,Desserts,Momizza menu,,74,,,,,,Desserts
+simple,MOM-DESSERTS-STRAWBERRY-ICE-CREAM,Strawberry Ice Cream,1,0,visible,,,taxable,1,59,Desserts,Momizza menu,,75,,,,,,Desserts
+simple,MOM-DESSERTS-CHOCOLATE-BROWNIE,Chocolate Brownie,1,0,visible,,,taxable,1,109,Desserts,Momizza menu,,76,,,,,,Desserts
+simple,MOM-MOMOS-VEG-MOMO,Veg Momo,1,0,visible,,,taxable,1,100,Momos,Momizza menu,,77,,,,,,Momos
+simple,MOM-MOMOS-PANEER-MOMO,Paneer Momo,1,0,visible,,,taxable,1,140,Momos,Momizza menu,,78,,,,,,Momos
+simple,MOM-MOMOS-CHEESE-MOMO,Cheese Momo,1,0,visible,,,taxable,1,150,Momos,Momizza menu,,79,,,,,,Momos
+simple,MOM-MOMOS-JHOL-MOMO,Jhol Momo,1,0,visible,,,taxable,1,200,Momos,Momizza menu,,80,,,,,,Momos
+simple,MOM-MOMOS-KURKURE-MOMO,Kurkure Momo,1,0,visible,,,taxable,1,200,Momos,Momizza menu,,81,,,,,,Momos
+simple,MOM-MOMOS-CHEESE-KURKURE-MOMO,Cheese Kurkure Momo,1,0,visible,,,taxable,1,225,Momos,Momizza menu,,82,,,,,,Momos
+simple,MOM-PAN-PASTAS-WHITE-SAUCE-PASTA,White Sauce Pasta,1,0,visible,,,taxable,1,240,Pan Pastas,Momizza menu,,83,,,,,,Pan Pastas
+simple,MOM-PAN-PASTAS-RED-SAUCE-PASTA,Red Sauce Pasta,1,0,visible,,,taxable,1,249,Pan Pastas,Momizza menu,,84,,,,,,Pan Pastas
+simple,MOM-PAN-PASTAS-MIX-PASTA,Mix Pasta,1,0,visible,,,taxable,1,249,Pan Pastas,Momizza menu,,85,,,,,,Pan Pastas
+simple,MOM-PAN-PASTAS-CHEESE-PASTA,Cheese Pasta,1,0,visible,,,taxable,1,299,Pan Pastas,Momizza menu,,86,,,,,,Pan Pastas
+simple,MOM-MANCHURIAN-R-DRY-MANCHURIAN,Dry Manchurian,1,0,visible,,,taxable,1,159,"Manchurian, Rice & Noodles",Momizza menu,,87,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-SEMI-GRAVY-MANCHURIAN,Semi Gravy Manchurian,1,0,visible,,,taxable,1,169,"Manchurian, Rice & Noodles",Momizza menu,,88,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-GRAVY-MANCHURIAN,Gravy Manchurian,1,0,visible,,,taxable,1,189,"Manchurian, Rice & Noodles",Momizza menu,,89,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-VEG-FRIED-RICE,Veg Fried Rice,1,0,visible,,,taxable,1,159,"Manchurian, Rice & Noodles",Momizza menu,,90,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-SCHEZWAN-FRIED-RICE,Schezwan Fried Rice,1,0,visible,,,taxable,1,189,"Manchurian, Rice & Noodles",Momizza menu,,91,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-PANEER-FRIED-RICE,Paneer Fried Rice,1,0,visible,,,taxable,1,199,"Manchurian, Rice & Noodles",Momizza menu,,92,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-VEG-HAKKA-NOODLES,Veg Hakka Noodles,1,0,visible,,,taxable,1,159,"Manchurian, Rice & Noodles",Momizza menu,,93,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-SCHEZWAN-VEG-NOODLES,Schezwan Veg Noodles,1,0,visible,,,taxable,1,169,"Manchurian, Rice & Noodles",Momizza menu,,94,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-MANCHURIAN-R-PANEER-NOODLES,Paneer Noodles,1,0,visible,,,taxable,1,189,"Manchurian, Rice & Noodles",Momizza menu,,95,,,,,,"Manchurian, Rice & Noodles"
+simple,MOM-ROLLS-VEG-ROLL,Veg Roll,1,0,visible,,,taxable,1,80,Rolls,Momizza menu,,96,,,,,,Rolls
+simple,MOM-ROLLS-SPRING-ROLL,Spring Roll,1,0,visible,,,taxable,1,90,Rolls,Momizza menu,,97,,,,,,Rolls
+simple,MOM-ROLLS-CHEESE-ROLL,Cheese Roll,1,0,visible,,,taxable,1,110,Rolls,Momizza menu,,98,,,,,,Rolls
+simple,MOM-ROLLS-PANEER-ROLL,Paneer Roll,1,0,visible,,,taxable,1,120,Rolls,Momizza menu,,99,,,,,,Rolls
+simple,MOM-ROLLS-CHEESE-PANEER-ROLL,Cheese Paneer Roll,1,0,visible,,,taxable,1,140,Rolls,Momizza menu,,100,,,,,,Rolls
+simple,MOM-SNACKS-CHILI-POTATO,Chili Potato,1,0,visible,,,taxable,1,149,Snacks,Momizza menu,,101,,,,,,Snacks
+simple,MOM-SNACKS-HONEY-CHILI-POTATO,Honey Chili Potato,1,0,visible,,,taxable,1,179,Snacks,Momizza menu,,102,,,,,,Snacks
+simple,MOM-SNACKS-CHILI-PANEER,Chili Paneer,1,0,visible,,,taxable,1,189,Snacks,Momizza menu,,103,,,,,,Snacks
+simple,MOM-SNACKS-CHEESE-CHILI,Cheese Chili,1,0,visible,,,taxable,1,199,Snacks,Momizza menu,,104,,,,,,Snacks
+simple,MOM-SNACKS-HONEY-CHILI-CAULIFLOWER,Honey Chili Cauliflower,1,0,visible,,,taxable,1,,Snacks,Momizza menu,,105,,,,,—,Snacks
+simple,MOM-COMBOS-VEG-FRIED-RICE-MANCHURIA,Veg Fried Rice + Manchurian,1,0,visible,,,taxable,1,229,Combos,Momizza menu,,106,,,,,,Combos
+simple,MOM-COMBOS-SCHEZWAN-RICE-MANCHURIAN,Schezwan Rice + Manchurian,1,0,visible,,,taxable,1,249,Combos,Momizza menu,,107,,,,,,Combos
+simple,MOM-COMBOS-HONEY-CHILI-POTATO-VEG-F,Honey Chili Potato + Veg Fried Rice,1,0,visible,,,taxable,1,259,Combos,Momizza menu,,108,,,,,,Combos
+simple,MOM-COMBOS-CHEESE-CHILI-FRIED-RICE,Cheese Chili + Fried Rice,1,0,visible,,,taxable,1,269,Combos,Momizza menu,,109,,,,,,Combos
+simple,MOM-COMBOS-CHILI-PANEER-FRIED-RICE,Chili Paneer + Fried Rice,1,0,visible,,,taxable,1,269,Combos,Momizza menu,,110,,,,,,Combos
